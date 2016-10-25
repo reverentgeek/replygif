@@ -5,7 +5,13 @@ This is a simple Node.js client for the [ReplyGif  API](http://replygif.net/abou
 ## Install
 
 ```
-> npm install replygif
+> npm install --save replygif
+```
+
+...or with [yarn](https://yarnpkg.com):
+
+```
+> yarn add replygif
 ```
 
 ## Usage
