@@ -1,6 +1,6 @@
 {
   "name": "replygif",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "homepage": "https://github.com/reverentgeek/replygif",
   "description": "Simple client for ReplyGif.net API",
   "main": "index.js",
@@ -11,7 +11,11 @@
     "pretest": "npm run eslint && npm run compile",
     "test": "mocha ./spec/**/*.spec.js --reporter spec"
   },
-  "keywords": [ "gif", "reaction", "animated" ],
+  "keywords": [
+    "gif",
+    "reaction",
+    "animated"
+  ],
   "author": "David Neal <david@reverentgeek.com> (http://reverentgeek.com)",
   "contributors": [
     {
